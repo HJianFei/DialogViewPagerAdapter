@@ -1,0 +1,3 @@
+# DialogViewPagerAdapter
+实现图片Dialog中带ViewPager
+自定义Dialog，为Dialog添加自定义布局，自定义PagerAdapter以及PageTransformer
